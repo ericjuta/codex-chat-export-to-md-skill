@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Chat Export"
+  short_description: "Export current Codex session to Markdown"
+  default_prompt: "Use $codex-chat-export to export this Codex chat session to a Markdown transcript file."
